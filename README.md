@@ -1,5 +1,5 @@
 # helix
-helix editor themed with sweetpastel
+helix editor themed with **sweetpastel**
 
 # installation
 1. create a folder name ``themes`` in your helix config directory ``~/.config/helix``
