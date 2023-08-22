@@ -20,7 +20,7 @@
 
 "label" = "cyan"
 
-"operator" = "white"
+"operator" = "foreground"
 
 "function" = "blue"
 "function.macro" = "magenta"
